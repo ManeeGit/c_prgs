@@ -19,7 +19,7 @@ void main()
 }
 
 /*-----------------------------
-Output
+Output :
 
 RUN1
 Enter the radius of a circle
